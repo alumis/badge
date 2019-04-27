@@ -1,5 +1,5 @@
 {
-  "name": "badge",
+  "name": "@alumis/badge",
   "version": "1.0.0",
   "description": "Contains a badge component",
   "main": "index.ts",
@@ -23,12 +23,10 @@
   "homepage": "https://github.com/alumis/badge#readme",
   "devDependencies": {
     "@alumis/observables": "1.0.46",
-    "@alumis/observables-dom": "1.0.52",
-    "@alumis/theme": "1.0.0"
+    "@alumis/observables-dom": "1.0.52"
   },
   "peerDependencies": {
-    "@alumis/observables": "1.0.46",
-    "@alumis/observables-dom": "1.0.52",
-    "@alumis/theme": "1.0.1"
+    "@alumis/observables": "1.0.47",
+    "@alumis/observables-dom": "1.0.53"
   }
 }
